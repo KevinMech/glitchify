@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "name": "Glitchify",
+  "version": "1.0",
+
+  "description": "A fun web extension that 'glitches' the current website you are visiting. ",
+}
